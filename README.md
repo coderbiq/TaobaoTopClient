@@ -9,7 +9,7 @@ TaobaoTopClient
 
     "require": {
         ...
-        "elvis-bi/bq-wechat-sdk": "0.1.0Alpha"
+        "elvis-bi/taobao-top-client": "*"
         ...
     }
     
