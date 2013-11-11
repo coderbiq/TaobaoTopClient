@@ -24,7 +24,7 @@ class TopClient
             $this->secretKey = $config['secretKey'];
 
         if(isset($config['gatewayUrl']))
-            $this->gatewayUrl = $gatewayUrl;
+            $this->gatewayUrl = $config['gatewayUrl'];
 
         if(isset($config['format']))
             $this->format = $config['format'];
